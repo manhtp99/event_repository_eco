@@ -3,7 +3,9 @@ Overview
 
 The Repository Pattern provides an abstraction layer between domain logic and data access logic in Rails applications. It centralizes data access code and promotes separation of concerns.
 Structure
-Copyapp/
+
+
+App/
 ├── repositories/
 │   ├── base_repository.rb
 │   ├── event_repository.rb
